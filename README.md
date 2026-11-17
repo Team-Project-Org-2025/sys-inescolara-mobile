@@ -111,10 +111,6 @@ npx expo start
 
 ## 👥 Equipo y Licencia
 
-Desarrollado por **Team-Project-Org-2025** para el **Instituto de Ecosocialismo del Estado Lara (INECOLARA)**.
+Desarrollado por **Team-Project-Org-2026** para el **Instituto de Ecosocialismo del Estado Lara (INECOLARA)**.
 
 Este proyecto se distribuye bajo la licencia **MIT** — consulta el archivo [`LICENSE`](https://www.google.com/search?q=./LICENSE) para más detalles.
-
-```
-
-```
