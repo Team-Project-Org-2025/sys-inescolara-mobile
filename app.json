@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "VistasReact",
-    "slug": "VistasReact",
+    "name": "sys-inescolara-mobile",
+    "slug": "sys-inescolara-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
